@@ -39,8 +39,8 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student**, **f
 ## 🌐 **Connect With Me**
 - 🔗 **Portfolio Website:** [Coming Soon!]
 - 📺 **YouTube:** [Your Channel Name/Link]
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
-- 📧 **Email:** [Your Email Address]
+- 💼 **LinkedIn:** [(https://www.linkedin.com/in/msprofessor56/)]
+- 📧 **Email:** [mdanyal5678014@gmail.com]
 
 ---
 
