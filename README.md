@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Muhammad Salman (aka Professor)
+# Hi there! 👋 I'm Muhammad Salman (Professor)
 
 Welcome to my GitHub profile! I'm a passionate **Computer Science student**, **front-end web developer**, and a **technology enthusiast** who loves solving problems and building creative solutions. Here's what I bring to the table:
 
@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student**, **f
 
 ## 🌐 **Connect With Me**
 - 🔗 **Portfolio Website:** [Coming Soon!]
-- 📺 **YouTube:** [Your Channel Name/Link]
+- 📺 **YouTube:** (https://www.youtube.com/@msprofessor56/)
 - 💼 **LinkedIn:** [(https://www.linkedin.com/in/msprofessor56/)]
 - 📧 **Email:** [mdanyal5678014@gmail.com]
 
