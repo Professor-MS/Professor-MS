@@ -6,15 +6,15 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student**, **f
 
 ## 🌟 **About Me**
 - 🎓 **3rd-year BS Computer Science student** at the University of Malakand.
-- 💻 Experienced **web developer** with 2+ years in front-end development and 5+ years in web design.
-- 🎥 Skilled **video/photo editor** and **graphic designer**, proficient in tools like Adobe Premiere Pro, Photoshop, and After Effects.
-- 🌱 Currently learning **Data Science** and diving deep into **C++ programming**.
+- 💻 Experienced **Python developer** with 2+ years in front-end development and 5+ years in web design.
+- 🎥 Skilled **Video/photo editor** and **Graphic designer**, proficient in tools like Adobe Premiere Pro, Photoshop, and After Effects.
+- 🌱 Currently learning **Data Science** and diving deep into **C++ programming, Python GUI**.
 - 💡 Interested in **Artificial Intelligence**, **Robotics**, and **algorithms**.
 
 ---
 
 ## 🚀 **My Skills**
-- **Programming Languages:** C++, JavaScript, HTML, CSS.
+- **Programming Languages:** C++, JavaScript, HTML, CSS, Python, Python GUI.
 - **Web Development:** Front-end design, responsive UI/UX, modern frameworks.
 - **Editing Tools:** Adobe Suite (Premiere Pro, Photoshop, Illustrator), Filmora.
 - **Soft Skills:** Public speaking, teamwork, and delivering engaging presentations.
@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student**, **f
 - 🔗 **Portfolio Website:** [Coming Soon!]
 - 📺 **YouTube:** (https://www.youtube.com/@msprofessor56/)
 - 💼 **LinkedIn:** [(https://www.linkedin.com/in/msprofessor56/)]
-- 📧 **Email:** [mdanyal5678014@gmail.com]
+- 📧 **Email:** [msprofessor56@gmail.com]
 
 ---
 
